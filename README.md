@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Omasta-Parisot
+- prénom : Ethan
+- URL Netlify : https://tiny-pie-24d3fb.netlify.app/
 
 # Travail
 
