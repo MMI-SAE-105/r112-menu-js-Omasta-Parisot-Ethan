@@ -1,0 +1,36 @@
+|   index.html
+|   
++---cats
+|       chat-1.html
+|       chat-2.html
+|       index.html
+|
++---dogs
+|       chien-1.html
+|       chien-2.html
+|       index.html
+|
++---src
+|   +---css
+|   |       menu.css
+|   |
+|   +---js
+|       |   script.js
+|
+|
+|
++---arborescence
+|
+|
+|
+|
++---index.html
+|
+|
+|
+|
+|
++---README.md
+
+
+# code de l'arbo, téléchargement et mise en forme des images de chats et chiens
